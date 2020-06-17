@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, render_template, request, flash, redirect
 import numpy as np
 
-import xlrd
+#import xlrd
 import json
 import random
 import pandas as pd
